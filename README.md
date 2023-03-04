@@ -1,2 +1,2 @@
-# literate-octo-goggles
-python-simple-socket-communication
+# python-simple-socket-communication
+Python Simple Socket Communication using socket.
